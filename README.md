@@ -1,4 +1,4 @@
-## [fbgabriana.github.io](https://fbgabriana.github.io/)
+## [fbgabriana.github.io](/) / [gg-tournament](/gg-tournament/)
 
 # GG Tournament
 
